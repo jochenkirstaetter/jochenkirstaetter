@@ -4,7 +4,7 @@
 
 ## Biography
 
-Hi, my name is Jochen Kirstätter, also known as "JoKi". I'm a [software craftsman](https://github.com/jochenkirstaetter), [blogger](https://jochen.kirstaetter.name/blog/), [community founder](https://jochen.kirstaetter.name/mscc/), and [speaker](https://jochen.kirstaetter.name/speaking/). The MVP award is a recognition of my community contributions and activities to engage with Microsoft services and products over years. I founded the now largest IT community in Mauritius, and organise the annual Developers Conference.
+Hi, my name is Jochen Kirstätter, also known as "JoKi". I'm a [software craftsman](https://github.com/jochenkirstaetter), [blogger](https://jochen.kirstaetter.name/blog/), [community founder](https://jochen.kirstaetter.name/mscc/), and [speaker](https://jochen.kirstaetter.name/speaking/). Although I have been awarded as Microsoft Most Valuable Professional (MVP) for Developer Technologies and as Google Developer Expert (GDE) for Cloud I neither work for Microsoft nor for Google. These awards are a recognition of my community contributions, my passion to share knowledge, and my activities to engage with their respective services and products over years. I founded the now largest IT community in Mauritius, and organise the annual Developers Conference.
 
 ## Mauritius Software Craftsmanship Community
 
