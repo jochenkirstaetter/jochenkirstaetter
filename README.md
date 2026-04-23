@@ -17,4 +17,4 @@ The [GDG Mauritius](https://www.meetup.com/GDG-Mauritius/) was an idea that kept
 ## Let's network...
 
 More content can be found on my blog here: https://jochen.kirstaetter.name/  
-And you can easily reach me on Twitter [@JKirstaetter](https://twitter.com/jkirstaetter).
+And you can easily reach me on [X/Twitter](https://x.com/jkirstaetter), [Mastodon](https://mastodon.social/@jkirstaetter), and [Bluesky](https://bsky.app/profile/jochen.kirstaetter.name).
